@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Willo-hash
-- 👀 I’m interested in Cyber Sec 
-- 🌱 I’m currently learning Cyber Security and Networking
+- 👀 I’m interested in Cyber Security and Digital Forensics
+- 🌱 I’m currently studying a Master of IT, Majoring in Cyber Security and Networking 
 - 💞️ I’m looking to collaborate on projects that will push my efficiency in Python forward
 - 📫 How to reach me: Direct message or email
 - ⚡ Fun fact: I love snowsports and riding my Kawasaki Ninja motorbike 
